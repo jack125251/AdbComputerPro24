@@ -1,4 +1,4 @@
-# Command Line Hangman
+## Command Line Hangman
 
 Hangman Flow Chart:
 
