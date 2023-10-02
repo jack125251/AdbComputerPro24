@@ -2,7 +2,7 @@
 
 Hangman Flow Chart:
 
-![Hangman]()
+![Hangman](https://github.com/jack125251/AdvComputerPro24/blob/main/images/Hangman.png?raw=true)
 
 Hangman Screenshot:
 
